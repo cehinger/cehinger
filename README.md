@@ -13,11 +13,12 @@
 
 
 
-### Je suis développeur!
+### 👋 Salut, je suis Clément – Développeur Web & Fondateur du Studio Aelios
 
-Salut, je suis Clément EHINGER, et j'ai 22 ans! 
-Depuis maintenant 5 années passionnantes, j'ai plongé tête première dans le monde captivant de l'informatique et du développement. J'ai décidé d'en apprendre les technologies, les différents langages, et de me spécialiser dans le développement web.
-Aujourd'hui, je me lance dans une nouvelle aventure en entamant ma carrière professionnelle et en explorant le monde passionnant du freelance. Mon objectif ultime? Évoluer en permanence, accumuler une expérience diversifiée et m'immerger dans des projets stimulants. J'ai hâte de collaborer avec des esprits créatifs et des experts chevronnés pour apprendre, grandir et apporter ma propre touche à des projets innovants 💡.
+Avec Studio Aelios, je souhaite:
+👉 accompagner les entreprises, startups et entrepreneurs dans la création de sites web & applications mobiles sur mesure
+👉 repenser des projets existants pour leur donner une nouvelle énergie digitale.
 
-
+C’est un projet qui me tient particulièrement à cœur, né de l’envie de mettre mes compétences en 
+développement web & mobile au service de projets ambitieux, créatifs et porteurs de sens.
 
