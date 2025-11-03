@@ -1,18 +1,3 @@
-### Bienvenue sur ma page GitHub! 👋
-
-![html5](https://github.com/user-attachments/assets/60cc7ef1-0730-4b40-b4f2-1d4eecebe08b) ![css3](https://github.com/user-attachments/assets/4a9e1c5f-afc6-43d1-8231-040d92bdaec8) ![javascript](https://github.com/user-attachments/assets/0946b28d-d7ed-409e-b8ed-6126d2cc2862) ![bootstrap](https://github.com/user-attachments/assets/6af9ff02-7911-4ade-93d5-3bed289e5832) ![angular](https://github.com/user-attachments/assets/3531840e-cddb-4405-95a0-6eb5f427a2a4) ![nodejs](https://github.com/user-attachments/assets/6371e0be-6bba-443f-9468-e52470c2964e) ![java](https://github.com/user-attachments/assets/404b7f15-4476-4644-89c2-cc816035adbd) ![mysql](https://github.com/user-attachments/assets/eb2d2c5d-62a9-4693-a993-a1821b2aa312) ![postgresql](https://github.com/user-attachments/assets/b1a36d7a-a6d7-4bba-9756-7e94ee325e50) ![mongodb](https://github.com/user-attachments/assets/1d682437-128b-4f87-b33b-a362d61de04a)
-
-
-
-
-
-
-
-
-
-
-
-
 ### 👋 Salut, je suis Clément – Développeur Web & Fondateur du Studio Aelios
 
 Avec Studio Aelios, je souhaite:
