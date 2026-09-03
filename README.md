@@ -1,18 +1,30 @@
-### 👋 Salut, je suis Clément – Développeur Web & Fondateur du Studio Aelios
+## 👋 Salut, moi c'est Clément
 
-Avec Studio Aelios, je souhaite:
+### 💻 Développeur Web & Mobile
 
-👉 accompagner les entreprises, startups et entrepreneurs dans la création de sites web & applications mobiles sur mesure
+Je conçois et développe des sites web, applications et outils métier sur mesure pour les entreprises, startups et entrepreneurs.
 
-👉 repenser des projets existants pour leur donner une nouvelle énergie digitale.
+👉 J’accompagne mes clients de l’idée jusqu'à la mise en production : conception, développement, déploiement et évolution de leurs projets numériques.
 
-C’est un projet qui me tient particulièrement à cœur, né de l’envie de mettre mes compétences en développement web & mobile au service de projets ambitieux, créatifs et porteurs de sens.
+🚀 J'aime particulièrement :
 
-💻 Mes compétences :
+- développer des applications métier adaptées aux besoins réels
+- transformer des idées en produits web fonctionnels
+- moderniser et faire évoluer des projets existants
+- concevoir des solutions simples, performantes et maintenables
 
-- PHP / Laravel
-- JavaScript / Vue / React
-- MySQL / PostgreSQL
-- DevOps & déploiement
+### 💻 Mes compétences :
+
+Backend
+- PHP · Laravel
+- MySQL · PostgreSQL
+
+Frontend
+- JavaScript · Vue.js · React · Blade
+
+Infrastructure
+- Linux · VPS
+- Docker · DevOps
+- Déploiement & maintenance
 
 📫 Contact : [[LinkedIn](https://www.linkedin.com/in/cehinger/)]
